@@ -12,3 +12,4 @@ if __name__ == '__main__':
     tax_percent = int(input().strip())
 
     solve(meal_cost, tip_percent, tax_percent)
+ 
